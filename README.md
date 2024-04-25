@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning<br>👯 I’m looking to collaborate on creating content for AI/ML<br>🤝 I’m looking for help with AI/ML Enthusiasts<br>🌱 I’m currently learning LLM's<br>💬 Ask me about AI<br>
+🔭 I’m currently working on Generative AI<br>👯 I’m looking to collaborate on creating content for AI/ML<br>🤝 I’m looking for help with AI/ML Enthusiasts<br>🌱 I’m currently learning LLM's<br>💬 Ask me about AI<br>
 
 
 ## 🌐 Socials:
