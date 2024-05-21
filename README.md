@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Generative AI LLM's.<br>👯 I’m looking to collaborate on creating content for AI/ML.<br>🤝 I’m looking for help with AI/ML Enthusiasts<br>🌱 I’m currently learning about Quantizations<br>💬 Ask me about AI.<br> Excited about the future and I am willing to contribute to the growth of future<br>
+🔭 I’m currently working on Generative AI LLM's.<br>👯 I’m looking to collaborate on creating content for AI/ML.<br>🤝 I’m looking for help with AI/ML Enthusiasts<br>🌱 I’m currently learning about Quantizations<br>💬 Ask me about AI.<br> Excited about the future and I am willing to contribute to the growth of future.<br>
 
 
 ## 🌐 Socials:
